@@ -68,8 +68,3 @@ Frontend Development
 * Created interactive elements for the dashboard.
 
 
-**License**
----------
-
-This project is licensed under the MIT License. PLEASE DO NOT RESELL
-
